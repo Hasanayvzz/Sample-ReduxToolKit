@@ -1,0 +1,32 @@
+{
+  "name": "Hasan Credits",
+  "symbol": "HSNN",
+  "description": "A utility token for in-game purchases and rewards in the gaming ecosystem.",
+  "image": "https://emerald-written-guineafowl-738.mypinata.cloud/ipfs/bafkreifhetaqqkiy7predlcijbjojqawwbupoua5hwzsqglwryumrtq7uq",
+  "attributes": [
+    {
+      "trait_type": "Category",
+      "value": "Utility Token"
+    },
+    {
+      "trait_type": "Max Supply",
+      "value": "1000000"
+    }
+  ],
+  "external_url": "https://your-gaming-site.com",
+  "properties": {
+    "files": [
+      {
+        "uri": "https://emerald-written-guineafowl-738.mypinata.cloud/ipfs/bafkreifhetaqqkiy7predlcijbjojqawwbupoua5hwzsqglwryumrtq7uq",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "5Ey...abc",
+        "share": 100
+      }
+    ]
+  }
+}
